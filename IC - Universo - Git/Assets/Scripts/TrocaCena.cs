@@ -17,7 +17,7 @@ public class TrocaCena : MonoBehaviour
 
     public void TrocarDeCena(string cena)
     {
-        
+      
         SceneManager.LoadScene(cena);
         
     }
