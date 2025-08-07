@@ -25,7 +25,6 @@ public class MexerMovimentos : MonoBehaviour
         if (orbitaScript != null)
         {
             orbitaScript.velocidadeOrbita = 0f;
-            orbitaScript.velocidadeRotacao = 0f;
         }
 
         if (objetoParaMover != null)
