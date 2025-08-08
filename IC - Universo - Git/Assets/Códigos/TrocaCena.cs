@@ -5,7 +5,6 @@ public class TrocaCena : MonoBehaviour
 {
     static Vector3? posicaoVolta = null;
     GameObject player;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
@@ -16,17 +15,8 @@ public class TrocaCena : MonoBehaviour
                 player.transform.position = (Vector3)posicaoVolta;
                 posicaoVolta = null;
             }
-
-
         }
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
     public void TrocarDeCena(string cena)
     {
         if (player != null)
@@ -35,5 +25,4 @@ public class TrocaCena : MonoBehaviour
         }
         SceneManager.LoadScene(cena);
     }
-
 }
