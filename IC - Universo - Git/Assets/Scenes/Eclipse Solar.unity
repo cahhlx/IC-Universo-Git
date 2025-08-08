@@ -1014,7 +1014,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8969571752666551115, guid: 657321a07c3561043af55547ec4b0ed7, type: 3}
       propertyPath: m_Value
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8969571752666551115, guid: 657321a07c3561043af55547ec4b0ed7, type: 3}
       propertyPath: m_MaxValue
@@ -1980,7 +1980,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5289182684458692540, guid: e5db301629853dd4a99835fa70099d79, type: 3}
       propertyPath: m_Name
-      value: "TextButton(Merc\xFArio)"
+      value: TextButton(Parar movimento)
       objectReference: {fileID: 0}
     - target: {fileID: 5289182684458692541, guid: e5db301629853dd4a99835fa70099d79, type: 3}
       propertyPath: m_Pivot.x
@@ -2360,7 +2360,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4436940632021081990, guid: c24a7635b5761984d81cf6c4aac26e0d, type: 3}
       propertyPath: m_Name
-      value: TextButton(Marte)
+      value: TextButton(8x)
       objectReference: {fileID: 0}
     - target: {fileID: 4436940632021081991, guid: c24a7635b5761984d81cf6c4aac26e0d, type: 3}
       propertyPath: m_Pivot.x
@@ -2826,7 +2826,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5289182684458692540, guid: e5db301629853dd4a99835fa70099d79, type: 3}
       propertyPath: m_Name
-      value: "TextButton(V\xEAnus)"
+      value: TextButton(1x)
       objectReference: {fileID: 0}
     - target: {fileID: 5289182684458692541, guid: e5db301629853dd4a99835fa70099d79, type: 3}
       propertyPath: m_Pivot.x
@@ -2910,7 +2910,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5289182684458692541, guid: e5db301629853dd4a99835fa70099d79, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -85.69995
+      value: -53.6
       objectReference: {fileID: 0}
     - target: {fileID: 5289182684458692541, guid: e5db301629853dd4a99835fa70099d79, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -3031,7 +3031,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5289182684458692540, guid: e5db301629853dd4a99835fa70099d79, type: 3}
       propertyPath: m_Name
-      value: TextButton(Terra)
+      value: TextButton(4x)
       objectReference: {fileID: 0}
     - target: {fileID: 5289182684458692541, guid: e5db301629853dd4a99835fa70099d79, type: 3}
       propertyPath: m_Pivot.x
@@ -3115,7 +3115,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5289182684458692541, guid: e5db301629853dd4a99835fa70099d79, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -53.6
+      value: -85.7
       objectReference: {fileID: 0}
     - target: {fileID: 5289182684458692541, guid: e5db301629853dd4a99835fa70099d79, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
