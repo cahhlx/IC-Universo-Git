@@ -99417,7 +99417,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: " conclu\xEDmos que o buraco negro teria 720 milh\xF5es de vezes a massa
+  m_text: "conclu\xEDmos que o buraco negro teria 720 milh\xF5es de vezes a massa
     da Terra, isso \xE9, em porcentagem 72.000.000.000% da massa da Terra, e 2158
     vezes a massa do nosso Sol."
   m_isRightToLeft: 0
@@ -126851,7 +126851,7 @@ MonoBehaviour:
     negro\ne c \xE9 a velocidade da luz (3\xD710^8 m/s)\n\nO raio m\xE9dio da Terra
     \xE9 de 6,731 x 10^6 metros. Ao isolarmos a massa, obtemos a equa\xE7\xE3o: \nM
     = ((6,731 x 10^6) x (3 x 10^8)^2)/(2 x 6,674 x 10^(-11))\n\ne o resultado:\nM
-    = 4,29 x 10^33"
+    = 4,29 x 10^33 kg"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
