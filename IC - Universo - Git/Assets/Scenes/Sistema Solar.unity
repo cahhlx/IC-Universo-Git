@@ -1322,7 +1322,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Target: {fileID: 1985246776}
   velocidadeOrbita: 13.1
-  velocidadeRotacao: 400
+  velocidadeRotacao: -400
 --- !u!96 &587380261
 TrailRenderer:
   serializedVersion: 3
@@ -1578,7 +1578,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Target: {fileID: 1985246776}
   velocidadeOrbita: 9.7
-  velocidadeRotacao: 300
+  velocidadeRotacao: -300
 --- !u!96 &632419418
 TrailRenderer:
   serializedVersion: 3
@@ -11566,7 +11566,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Target: {fileID: 1985246776}
   velocidadeOrbita: 24.1
-  velocidadeRotacao: 70
+  velocidadeRotacao: -70
 --- !u!96 &1270494602
 TrailRenderer:
   serializedVersion: 3
@@ -51926,7 +51926,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Target: {fileID: 1985246776}
   velocidadeOrbita: 47.4
-  velocidadeRotacao: 10
+  velocidadeRotacao: -10
 --- !u!96 &1817733175
 TrailRenderer:
   serializedVersion: 3
@@ -52204,7 +52204,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Target: {fileID: 1985246776}
   velocidadeOrbita: 29.8
-  velocidadeRotacao: 80
+  velocidadeRotacao: -80
 --- !u!96 &1885722177
 TrailRenderer:
   serializedVersion: 3
